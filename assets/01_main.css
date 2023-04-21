@@ -1,0 +1,27 @@
+.body__sheet {
+  background-color: rgba(233, 233, 233, 0.5);
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 15px;
+}
+
+/* card */
+.card {
+  padding: 10px;
+  margin: 5px;
+}
+
+/* graph */
+.main-svg {
+  border-radius: 10px;
+}
+
+/* dropdown */
+.dropdown-selection {
+  width: 200px;
+}
+
+.Select-menu-outer {
+  color: black;
+}
