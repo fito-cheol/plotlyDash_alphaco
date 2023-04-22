@@ -2,3 +2,6 @@
   font-size: large;
   font-weight: 600;
 }
+.filter--text {
+  padding-right: 4px;
+}
